@@ -1,8 +1,8 @@
 #
 #	List of PCI IDs
 #
-#	Version: 2026.03.01
-#	Date:    2026-03-01 03:15:02
+#	Version: 2026.03.02
+#	Date:    2026-03-02 03:15:02
 #
 #	Maintained by Albert Pool, Martin Mares, and other volunteers from
 #	the PCI ID Project at https://pci-ids.ucw.cz/.
@@ -20925,6 +20925,7 @@
 	7662  MT7662E 802.11ac PCI Express Wireless Network Adapter
 	7663  MT7663 802.11ac PCI Express Wireless Network Adapter
 	7902  MT7902 802.11ax PCIe Wireless Network Adapter [Filogic 310]
+	7906  MT7916A/MT7916D normal link PCIe Wi-Fi 6(802.11ax) 160MHz 2x2 Wireless Network Adapter [Filogic 630]
 	7915  MT7915A/MT7915D normal link PCIe Wi-Fi 6(802.11ax) 80MHz 4x4/2x2 Wireless Network Adapter [Filogic 615]
 # MT7905D/MT7975 contain MT7915. If it works at G1 speed this extra device appears for extra bandwidth
 	7916  MT7915A/MT7915D hif link PCIe Wi-Fi 6(802.11ax) 80MHz 4x4/2x2 Wireless Network Adapter [Filogic 615]
@@ -25418,6 +25419,7 @@
 		15d9 0821  X10DRW-i (AST2400 BMC)
 		15d9 0832  X10SRL-F (AST2400 BMC)
 		15d9 086b  X10DRS (AST2400 BMC)
+		15d9 086d  X10SDV (AST2400 BMC)
 		15d9 1b95  H12SSL-i (AST2500 BMC)
 		15d9 1d50  X14DBG-AP (AST2600 BMC)
 		1849 2000  Onboard Graphics
@@ -28991,6 +28993,7 @@
 	4512  NE1N NVMe SSD
 	451b  NN4LE NVMe SSD (DRAM-less)
 	4622  NEM-PAC NVMe SSD (DRAM-less)
+1f32  Wuhan YuXin Semiconductor Co., Ltd.
 1f3f  3SNIC Ltd
 	2100  SSSHBA SAS/SATA HBA
 		1f3f 0120  HBA 32 Ports
@@ -29694,6 +29697,8 @@
 2106  ZCHL Technology Co., Ltd
 	0001  HL100 Accelerator Controller
 		2106 0001  HLC100 Accelerator Card
+# HXQ
+2108  HuiLink Technologies (Xiamen) Co., Ltd.
 2116  ZyDAS Technology Corp.
 21b4  Hunan Goke Microelectronics Co., Ltd
 21c3  21st Century Computer Corp.
